@@ -10,7 +10,7 @@ def get_system_info():
     system_info = {
         "student_name": "Сидорова Вероника Павловна",
         "academic_group": "ИВТИИбд-13",
-        "github_link": "https://github.com/ivanov_ivan"
+        "github_link": "https://github.com/Verrranika/ots_practice_2026"
     }
     return system_info
 
